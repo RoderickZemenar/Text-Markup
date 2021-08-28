@@ -1,9 +1,8 @@
 # Text-Markup
 Homework for August 31s
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
   <head>
-    <meta charset="utf-8">
     <title>Text</title>
   </head>
   <body>
