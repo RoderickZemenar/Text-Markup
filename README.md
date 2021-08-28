@@ -1,9 +1,9 @@
 # Text-Markup
-Homework for August 31s
+Homework for August 31st
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Text</title>
+    <title> Text </title>
   </head>
   <body>
     <h1>The Story in The Book</h1>
